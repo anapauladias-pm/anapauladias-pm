@@ -6,6 +6,7 @@ Gosto de transformar problemas em produtos.
 
 Sou PM há alguns anos e adoro entender por que as pessoas fazem o que fazem. Nos últimos meses comecei a explorar IA não só para aumentar minha produtividade, mas para construir coisas que antes eu dependeria de uma equipe inteira para tirar do papel.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f3ede7&height=2&section=header"/>
 
 ## 🧰 Ferramentas
 
